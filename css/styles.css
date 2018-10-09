@@ -1,9 +1,7 @@
 p {
-  color: red;
-  font-family: serif;
+  color: thistle;
   font-style: normal;
   font-weight: bold;
-  text-align: center;
   font-size: 25px;
 }
 
@@ -14,9 +12,17 @@ h1 {
 }
 
 li {
-  color: lavender;
+  color: thistle;
   font-weight: bolder;
 }
 body {
   background-color: darkslateblue;
+  font-family: sans-serif;
+  text-align: center;
+}
+a {
+  color: thistle;
+}
+a:visited {
+  color: mediumorchid;
 }
