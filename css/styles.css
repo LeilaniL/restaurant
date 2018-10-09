@@ -1,0 +1,21 @@
+p {
+  color: red;
+  font-family: serif;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: dodgerblue;
+  font-style: oblique;
+
+}
+
+li {
+  color: lavender;
+  font-weight: bolder;
+}
+body {
+  background-color: darkslateblue;
+}
